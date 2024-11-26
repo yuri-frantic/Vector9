@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Frantic.DMC/Practic9/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\Vector3DExample.dir\\main.cpp.obj -c C:\\Users\\Frantic.DMC\\Practic9\\main.cpp",
+  "file": "C:\\Users\\Frantic.DMC\\Practic9\\main.cpp",
+  "output": "CMakeFiles\\Vector3DExample.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Frantic.DMC/Practic9/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\Vector3DExample.dir\\vector3d.cpp.obj -c C:\\Users\\Frantic.DMC\\Practic9\\vector3d.cpp",
+  "file": "C:\\Users\\Frantic.DMC\\Practic9\\vector3d.cpp",
+  "output": "CMakeFiles\\Vector3DExample.dir\\vector3d.cpp.obj"
+}
+]
